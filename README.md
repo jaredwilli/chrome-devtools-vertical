@@ -1,7 +1,7 @@
 chrome-devtools-vertical
 ========================
 
-A Custom.css stylesheet for Chrome/Chromium which alters the layout of Devtools when docked to the right of the screen so that the code appears horizontally above the attributes pane, instead of next to it. 
+A Custom.css stylesheet for Chrome/Chromium which alters the layout of Devtools when docked to the right of the screen so that the code appears horizontally above the attributes pane, instead of next to it.
 
 ![Alt text](https://googledrive.com/host/0B3Ekginw8kODMnd2djRiMnVUMHM/devtools.png "Screengrab of chrome-devtools-vertical")
 
@@ -17,7 +17,7 @@ Installation:
 
 Find your Chrome's user stylesheets directory:
 
-- **Windows:** C:\Users\\{Your Username}\AppData\Local\Google\Chrome\User Data\Default\User StyleSheets\
+- **Windows:** C:/Users/%username%/AppData/Local/Google/Chrome/User Data/Default/User StyleSheets/Custom.css
 - **OSX:** ~/Library/Application Support/Google/Chrome/Default/User StyleSheets/
 - **Ubuntu (Chromium):** ~/.config/chromium/Default/User StyleSheets/
 
